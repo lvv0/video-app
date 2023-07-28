@@ -10,9 +10,9 @@
 
 ## 项目地址
 
-前台地址：[video-api](https://github.com/liyanzu0926/video-api)
+前台地址：[video-api](https://github.com/lvv0/video-api)
 
-后台地址：[video-admin](https://github.com/liyanzu0926/video-admin)
+后台地址：[video-admin](https://github.com/lvv0/video-admin)
 
 ## 技术栈
 
